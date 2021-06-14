@@ -1,5 +1,7 @@
 # BrutePin
 
+PLEASE KEEP IN MIND THAT THIS IS FREE, NOT PAID FOR LIKE FUCKING 1.5K ROBUX OR SO.
+
 # Table of Contents
 
 [Update Logs](https://github.com/Luckytrang2010/BrutePin#update-logs)
