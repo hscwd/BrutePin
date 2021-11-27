@@ -125,8 +125,8 @@ if cachedude2.read() != "":
             time.sleep(float(waittime))
             makerequesty(convert(int(i)),ok[0],csrftoken,ok[1])
     elif option.lower() == "n":
-        cookiepls = input("Enter account's cookie here: ")
-        csrftoken = input("Enter csrf token here: ")
+        cookiepls = input("_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_E7E6AB8377BC66AD157BDD74230AB76613106D0D9FE9BE778759DCAE3EB8D367F3B2C00AB43190A870CFF5039DF2E1EDC8BFC84D1EC18F98A8704486E35B8C845A2FC7F8BE11C44B1A1C51FCBFFF764D7D9D21F66E6FE04CF668938158D683E18E1E1A57C70D1ABE81E01CE82C819ADDCD5A9CA9E336FAA9A226D80EFEB22D64F36EFA760A54F2C183E30917B84E14A86126E9D4DD5FBAC5031E13756CCEC3314365DE8D44706EC7A3FC8A878FCAEC860F40FA911C37E7969DEA9D2D520FB3E52EF4432B3965FA5631FFD7E81013FF348D79F0ECD695C97F6462D751F9FADD81873E7450D73610A83A0F71A696797C3FA1E0B55912CEADF3DAE917B1BFD87441DE95ED02C1DAC6CDFBA4FC68F22AC43028BA61E061460A557222B5CE92D76EFC274FB63F072A5104D36589B9E9290A9796E7CB90A2CECB158C09384B4726701F69A04A8D8E23CCF3F0F9D617A6FE3B728BF0A080589189EDA5BAA9BFB4F99B3FA93C3416: ")
+        csrftoken = input("MxB6vHhOOKcG")
         ospls = input("""Operating System Choices
 -------------------------
 + Windows
@@ -192,7 +192,7 @@ else:
         else:
             print(Fore.RED + "[" + str(hi.status_code) + "] " + str(hi.content) + Fore.WHITE)
     cookiepls = input("Enter account's cookie here: ")
-    csrftoken = input("Enter csrf token here: ")
+    csrftoken = input("MxB6vHhOOKcG")
     ospls = input("""Operating System Choices
 -------------------------
 + Windows
